@@ -1,33 +1,34 @@
 1:"$Sreact.fragment"
-2:"/aqs-demo/_next/static/chunks/281ifn9b2-leb.js"
-3:"/aqs-demo/_next/static/chunks/19qjxadi9eyjg.js"
-4:"/aqs-demo/_next/static/chunks/00d1i-l-34wml.js"
-5:"/aqs-demo/_next/static/chunks/11wgz38u_o-yf.js"
-6:"/aqs-demo/_next/static/chunks/17nhx_fiaokpn.js"
-7:"/aqs-demo/_next/static/chunks/25guwu-dc4-mp.js"
-8:"/aqs-demo/_next/static/chunks/36st70y6n8h2r.js"
-9:I[70591,["$2","$3","$4","$5","$6","$7","$8"],"Providers"]
-a:I[39995,["$2","$3","$4","$5","$6","$7","$8"],"AppShell"]
-b:I[39756,["$2","$3","$4","$5","$6","$7","$8"],"default"]
-c:I[37457,["$2","$3","$4","$5","$6","$7","$8"],"default"]
-11:"/aqs-demo/_next/static/chunks/0t_u8v8r6_wwg.js"
-12:I[30471,["$2","$3","$4","$5","$6","$7","$8","$11"],"ActPage"]
-13:I[97367,["$2","$3","$4","$5","$6","$7","$8"],"OutletBoundary"]
-14:"$Sreact.suspense"
-16:"ViewportBoundary"
-17:I[97367,["$2","$3","$4","$5","$6","$7","$8"],"$16"]
-19:"MetadataBoundary"
-1a:I[97367,["$2","$3","$4","$5","$6","$7","$8"],"$19"]
-1c:I[68027,["$2","$3","$4","$5","$6","$7","$8"],"default",1]
-:HL["/aqs-demo/_next/static/chunks/0imgi_di-dnpb.css","style"]
+2:"/aqs-demo/_next/static/chunks/1pzo5lryhsqqo.js"
+3:"/aqs-demo/_next/static/chunks/00d1i-l-34wml.js"
+4:"/aqs-demo/_next/static/chunks/25guwu-dc4-mp.js"
+5:"/aqs-demo/_next/static/chunks/15vlsotgof_yp.js"
+6:"/aqs-demo/_next/static/chunks/3dsbwvez0m6zr.js"
+7:"/aqs-demo/_next/static/chunks/39me12osb7ovy.js"
+8:"/aqs-demo/_next/static/chunks/19qjxadi9eyjg.js"
+9:"/aqs-demo/_next/static/chunks/0lh11w1uvh0ib.js"
+a:I[70591,["$2","$3","$4","$5","$6","$7","$8","$9"],"Providers"]
+b:I[39995,["$2","$3","$4","$5","$6","$7","$8","$9"],"AppShell"]
+c:I[39756,["$2","$3","$4","$5","$6","$7","$8","$9"],"default"]
+d:I[37457,["$2","$3","$4","$5","$6","$7","$8","$9"],"default"]
+12:"/aqs-demo/_next/static/chunks/0t6hmo9bzx91_.js"
+13:I[30471,["$2","$3","$4","$5","$6","$7","$8","$9","$12"],"ActPage"]
+14:I[97367,["$2","$3","$4","$5","$6","$7","$8","$9"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4","$5","$6","$7","$8","$9"],"$17"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3","$4","$5","$6","$7","$8","$9"],"$1a"]
+1d:I[68027,["$2","$3","$4","$5","$6","$7","$8","$9"],"default",1]
+:HL["/aqs-demo/_next/static/chunks/2la41ub40r0xh.css","style"]
 :HC["/",""]
-e:X
-10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{}],[["$","script","script-0",{"src":"/aqs-demo/_next/static/chunks/0t_u8v8r6_wwg.js","async":true,"nonce":"$undefined"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":false,"v":null}}]]
-f:[["children",{"s":{"n":"id","t":"d","k":"ACT-P3-09","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Q10"}]]
-d:[["children",{"s":"invoices","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Qf"}]]
-0:{"P":null,"c":["","invoices","ACT-P3-09",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aqs-demo/_next/static/chunks/0imgi_di-dnpb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/aqs-demo/_next/static/chunks/281ifn9b2-leb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/aqs-demo/_next/static/chunks/19qjxadi9eyjg.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/aqs-demo/_next/static/chunks/00d1i-l-34wml.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/aqs-demo/_next/static/chunks/11wgz38u_o-yf.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/aqs-demo/_next/static/chunks/17nhx_fiaokpn.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/aqs-demo/_next/static/chunks/25guwu-dc4-mp.js","async":true,"nonce":"$undefined"}],["$","script","script-6",{"src":"/aqs-demo/_next/static/chunks/36st70y6n8h2r.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full","children":["$","$L9",null,{"children":["$","$La",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],"p":false,"v":null},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[["$","link","0",{"rel":"stylesheet","href":"/aqs-demo/_next/static/chunks/0imgi_di-dnpb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"V2rVZwaSgjDZQk1WfiDja"}
-e:C
-18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1d:I[27201,["$2","$3","$4","$5","$6","$7","$8"],"IconMark"]
-15:null
-1b:[["$","title","0",{"children":"AQS Drilling Platform"}],["$","meta","1",{"name":"description","content":"Цифровая платформа буровых работ AQS Limited: сменные рапорты, согласование, акты, парк, ОТ и ПБ"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/aqs-demo/icon.svg?icon.35wsce8n_6-un.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1d","4",{}]]
+f:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L13",null,{}],[["$","script","script-0",{"src":"/aqs-demo/_next/static/chunks/0t6hmo9bzx91_.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+10:[["children",{"s":{"n":"id","t":"d","k":"ACT-P3-09","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q11"}]]
+e:[["children",{"s":"invoices","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","invoices","ACT-P3-09",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aqs-demo/_next/static/chunks/2la41ub40r0xh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/aqs-demo/_next/static/chunks/1pzo5lryhsqqo.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/aqs-demo/_next/static/chunks/00d1i-l-34wml.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/aqs-demo/_next/static/chunks/25guwu-dc4-mp.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/aqs-demo/_next/static/chunks/15vlsotgof_yp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/aqs-demo/_next/static/chunks/3dsbwvez0m6zr.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/aqs-demo/_next/static/chunks/39me12osb7ovy.js","async":true,"nonce":"$undefined"}],["$","script","script-6",{"src":"/aqs-demo/_next/static/chunks/19qjxadi9eyjg.js","async":true,"nonce":"$undefined"}],["$","script","script-7",{"src":"/aqs-demo/_next/static/chunks/0lh11w1uvh0ib.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full","children":["$","$La",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/aqs-demo/_next/static/chunks/2la41ub40r0xh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"mzuMSePSeBKfOsRcqO_3z"}
+f:C
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[27201,["$2","$3","$4","$5","$6","$7","$8","$9"],"IconMark"]
+16:null
+1c:[["$","title","0",{"children":"AQS Drilling Platform"}],["$","meta","1",{"name":"description","content":"Цифровая платформа буровых работ AQS Limited: сменные рапорты, согласование, акты, парк, ОТ и ПБ"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/aqs-demo/icon.svg?icon.35wsce8n_6-un.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1e","4",{}]]
